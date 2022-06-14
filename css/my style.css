@@ -1,0 +1,72 @@
+@charset "UTF-8";
+.p2 {
+    background-position: center center;
+    background-size: cover;
+    height: 550px;
+    background-image: url(../1000.jpg);
+    margin-left: 10px;
+    border-top-left-radius: 5px;
+}
+.p5 {
+    background-image: url(../08.jpeg);
+    height: 300px;
+    background-position: center center;
+    background-size: cover;
+    margin-right: 5px;
+    margin-top: 10px;
+    border-radius: 5px;
+}
+.p6 {
+    background-image: url(../09.jpeg);
+    height: 300px;
+    background-position: center center;
+    background-size: cover;
+    margin-right: 5px;
+    margin-left: 5px;
+    margin-top: 10px;
+    border-radius: 5px;
+}
+.p7 {
+    background-image: url(../10.jpeg);
+    height: 300px;
+    background-position: center center;
+    background-size: cover;
+    margin-left: 5px;
+    margin-top: 10px;
+    left: 0px;
+    border-radius: 5px;
+}
+.p3 {
+    background-image: url(../01.jpg);
+    height: 650px;
+    background-position: center center;
+    background-size: cover;
+    margin-bottom: 25px;
+}
+.p4 {
+    background-image: url(../03.jpeg);
+    height: 270px;
+    background-position: center center;
+    background-size: cover;
+    border-radius: 5px;
+}
+.p1 {
+    height: 270px;
+    background-image: url(../04.jpg);
+    background-position: center center;
+    background-size: cover;
+    margin-bottom: 10px;
+    border-radius: 5px;
+}
+.box1 {
+    width: 100%;
+    height: 100px;
+    background-image: url(../02.jpeg);
+    background-position: 0% -8ˋˋ
+%;
+    text-align: center;
+    font-size: 56px;
+    background-position: 0% -84%;
+    color: #3C3B33;
+    margin-bottom: 15px;
+}
